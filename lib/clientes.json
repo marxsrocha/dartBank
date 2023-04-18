@@ -1,0 +1,18 @@
+[
+  {
+    "nome": "Marx",
+    "cpf": 1234,
+    "datadenascimento": "1234",
+    "fone": 1234,
+    "sexo": "1234",
+    "senha": "1234"
+  },
+  {
+    "nome": "Marx",
+    "cpf": 12345,
+    "datadenascimento": "12345",
+    "fone": 12345,
+    "sexo": "12345",
+    "senha": "12345"
+  }
+]
